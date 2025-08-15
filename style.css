@@ -1,0 +1,29 @@
+/* Centraliza TUDO no meio da tela */
+body{
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center; /* horizontal */
+  align-items: center;     /* vertical */
+}
+
+/* Centraliza o conteúdo dentro do main */
+main{
+  text-align: center;
+}
+
+/* Form em coluna, centralizado e com largura controlada */
+.cadastroDeClientes{
+  width: min(360px, 90vw);
+  margin: 24px auto;        /* centraliza horizontalmente */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: stretch;     /* inputs ocupam 100% da largura */
+}
+
+/* Inputs e botão ocupam a largura do form */
+.cadastroDeClientes input,
+.cadastroDeClientes button{
+  width: 100%;
+}
