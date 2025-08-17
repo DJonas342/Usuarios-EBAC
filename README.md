@@ -24,7 +24,7 @@ Permite cadastrar clientes, visualizar a lista e deletar registros em tempo real
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/DJonas342/Usuarios-EBAC.git
 
 ## Contribuir
 1. Faça um fork do projeto
