@@ -26,7 +26,6 @@ Permite cadastrar clientes, visualizar a lista e deletar registros em tempo real
    ```bash
    git clone https://github.com/seu-usuario/seu-repo.git
 
-
 ## Contribuir
 1. Faça um fork do projeto
 2. Crie uma branch (`git checkout -b feature/minha-feature`)
