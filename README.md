@@ -1,6 +1,5 @@
 # Cadastro de Usuários EBAC
 Aplicação simples em JavaScript para cadastrar, listar e deletar usuários usando [CrudCrud](https://crudcrud.com).
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/seu-repo)
 
 ## Índice
@@ -8,7 +7,6 @@ Aplicação simples em JavaScript para cadastrar, listar e deletar usuários usa
 - [Tecnologias](#tecnologias)
 - [Como Usar](#como-usar)
 - [Contribuir](#contribuir)
-- [Licença](#licença)
 
 ## Sobre
 Este projeto foi feito como parte do curso de Fullstack da EBAC.  
